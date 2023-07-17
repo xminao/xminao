@@ -4,7 +4,7 @@ I am Minho, studying in the Department of Software Engineering now.🔭
 Currently focusing on writing Java programs and Go concurrent programs.(6.824 is a tough job for me. lol😭)
 
 ### Ongoing Projects 🤔
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xminao&repo=springlet)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xminao&repo=springlet)](https://github.com/xmiano/springlet)
 
 ## Programming Language 💬
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xminao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
